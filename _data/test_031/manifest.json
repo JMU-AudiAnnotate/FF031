@@ -54,5 +54,74 @@
           }
         ]
       }
-    ]
+    ],
+    "structures": [
+    {
+      "type": "Range",
+      "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/1",
+      "label": {
+        "it": [
+          "Gaetano Donizetti, L'Elisir D'Amore"
+        ]
+      },
+      "items": [
+        {
+          "type": "Range",
+          "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/2",
+          "label": {
+            "it": [
+              "Atto Primo"
+            ]
+          },
+          "items": [
+            {
+              "type": "Range",
+              "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/3",
+              "label": {
+                "it": [
+                  "Preludio e Coro d'introduzione – Bel conforto al mietitore"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=0,302.05"
+                }
+              ]
+            },
+            {
+              "type": "Range",
+              "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/4",
+              "label": {
+                "en": [
+                  "Remainder of Atto Primo"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=302.05,3490"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Range",
+          "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/5",
+          "label": {
+            "it": [
+              "Atto Secondo"
+            ]
+          },
+          "items": [
+            {
+              "type": "Canvas",
+              "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=3490"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 } 
