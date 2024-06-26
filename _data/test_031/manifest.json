@@ -23,6 +23,16 @@
         "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3490,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FF031/annotations/test_031-canvas-1-transcription.json",
+            "label": {
+              "none": ["transcription"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/paintings",
