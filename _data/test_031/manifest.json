@@ -60,8 +60,8 @@
       "type": "Range",
       "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/1",
       "label": {
-        "it": [
-          "Gaetano Donizetti, L'Elisir D'Amore"
+        "en": [
+          "Furious Flower Poetry Center, African American Poetry and the Vernacular Matrix Part 2, 9/29/1994"
         ]
       },
       "items": [
@@ -69,8 +69,8 @@
           "type": "Range",
           "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/2",
           "label": {
-            "it": [
-              "Atto Primo"
+            "en": [
+              "Part 1"
             ]
           },
           "items": [
@@ -78,14 +78,14 @@
               "type": "Range",
               "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/3",
               "label": {
-                "it": [
-                  "Preludio e Coro d'introduzione – Bel conforto al mietitore"
+                "en": [
+                  "Video begins in the middle of Eleanor W. Traylor speaking"
                 ]
               },
               "items": [
                 {
                   "type": "Canvas",
-                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=0,302.05"
+                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=0,280"
                 }
               ]
             },
@@ -94,13 +94,30 @@
               "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/4",
               "label": {
                 "en": [
-                  "Remainder of Atto Primo"
+                  "Alvin Aubert introduces Sherley Anne Williams"
                 ]
               },
               "items": [
                 {
                   "type": "Canvas",
-                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=302.05,3490"
+                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=280,292"
+                }
+              ]
+            }
+          ]
+        },
+        {
+              "type": "Range",
+              "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/5",
+              "label": {
+                "en": [
+                  "Alvin Aubert introduces Sherley Anne Williams"
+                ]
+              },
+              "items": [
+                {
+                  "type": "Canvas",
+                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=292,3490"
                 }
               ]
             }
@@ -108,10 +125,10 @@
         },
         {
           "type": "Range",
-          "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/5",
+          "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/6",
           "label": {
-            "it": [
-              "Atto Secondo"
+            "en": [
+              "Part 2"
             ]
           },
           "items": [
