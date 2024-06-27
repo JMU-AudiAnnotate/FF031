@@ -22,7 +22,7 @@
       {
         "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 3490,
+        "duration": 3490.0,
         "annotations": [
           
           {
@@ -46,7 +46,7 @@
                   "id": "https://apps.lib.jmu.edu/audiannotate/FF031.mp4",
                     "type": "Video",
                     "format": "video/mp4",
-                    "duration": 3490
+                    "duration": 3490.0
                 },
                 "target": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas"
               }
@@ -85,7 +85,7 @@
               "items": [
                 {
                   "type": "Canvas",
-                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=0,280"
+                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=0.0,280.0"
                 }
               ]
             },
@@ -100,7 +100,7 @@
               "items": [
                 {
                   "type": "Canvas",
-                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=280,292"
+                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=280.0,292.0"
                 }
               ]
             },
@@ -115,7 +115,7 @@
             "items": [
                 {
                   "type": "Canvas",
-                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=292,3490"
+                  "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=292.0,3490.0"
                 }
               ]
             }
