@@ -107,14 +107,14 @@
           ]
         },
         {
-              "type": "Range",
-              "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/5",
-              "label": {
+            "type": "Range",
+            "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/5",
+             "label": {
                 "en": [
                   "Williams begins speaking; Remainder of video is duplicate of FF0031 ending after the panel discusses Monifa A. Love's question"
                 ]
               },
-              "items": [
+            "items": [
                 {
                   "type": "Canvas",
                   "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=292,3490"
