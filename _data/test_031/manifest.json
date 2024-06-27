@@ -1,4 +1,4 @@
-{
+ds{
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/manifest.json",
     "type": "Manifest",
@@ -109,7 +109,7 @@
             "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/5",
              "label": {
                 "en": [
-                  "Williams begins speaking; Remainder of video is duplicate of FF0031 ending after the panel discusses Monifa A. Love's question"
+                  "Williams begins speaking; Remainder of video ends after the panel discusses Monifa A. Love's question"
                 ]
               },
             "items": [
