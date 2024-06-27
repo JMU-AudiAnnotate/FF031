@@ -124,14 +124,14 @@
           ]
         },
         {
-          "type": "Range",
-          "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/6",
-          "label": {
+        "type": "Range",
+        "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/range/6",
+        "label": {
             "en": [
               "Part 2"
             ]
-          },
-          "items": [
+        },
+        "items": [
             {
               "type": "Canvas",
               "id": "https://JMU-AudiAnnotate.github.io/FF031/test_031/canvas-1/canvas/1#t=3490"
